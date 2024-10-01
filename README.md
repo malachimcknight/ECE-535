@@ -3,11 +3,11 @@
 
 ### Team members
 * Malachi McKnight
-> Role: setup, software
+> Role: setup, software, research, algorithm testing
 * Om Tank
-> Role: networking, writing
+> Role: writing, research, algorithm development
 * Kenneth Lin
-> Role: research, algorithm design
+> Role: research, algorithm design, software
 
 ## Motivation
 * Federated Learning is a popular machine learning paradigm that allows multiple
@@ -33,6 +33,7 @@ adversarial conditions.
 * Google Colab
 
 ## Project timeline
+* Project selection — September 29
 
 ## References
 * Communication-Efficient learning of deep networks from decentralized data. [[Link]](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)
