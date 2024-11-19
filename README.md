@@ -24,7 +24,7 @@ adversarial conditions.
 * Implement FL with different datasets and different levels of heterogeneity.
 * Include some adversarial attacks and perform the same characterization.
 * What do we observe in adversarial vs. non-adversarial settings? Why do we think the impact of heterogeneity is different in both settings?
-* 3 datasets with altered levels of heterogeneity, repeated with adversarial attacks
+* 3 datasets with altered levels of heterogeneity, repeated with adversarial attacks.
 
 ## System blocks
 
