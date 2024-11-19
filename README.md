@@ -24,6 +24,7 @@ adversarial conditions.
 * Implement FL with different datasets and different levels of heterogeneity.
 * Include some adversarial attacks and perform the same characterization.
 * What do we observe in adversarial vs. non-adversarial settings? Why do we think the impact of heterogeneity is different in both settings?
+* 3 datasets with altered levels of heterogeneity, repeated with adversarial attacks
 
 ## System blocks
 
@@ -33,7 +34,9 @@ adversarial conditions.
 * Google Colab
 
 ## Project timeline
-* Project selection — September 29
+* Project selection — September 29th
+* In-class demonstration — December 5th
+* Final report — December 18th
 
 ## References
 * Communication-Efficient learning of deep networks from decentralized data. [[Link]](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)
