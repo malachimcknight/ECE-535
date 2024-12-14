@@ -28,10 +28,10 @@ adversarial conditions.
 
 ## System blocks
 * System Diagram
-![](/image/FL-Diagram.png)
+![](/images/FL-Diagram.png)
 
 * System Implementation
-![](/image/FL-Implementation.png)
+![](/images/FL-Implementation.png)
 
 ## Hardware/Software requirements
 * Python
