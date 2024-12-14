@@ -27,6 +27,11 @@ adversarial conditions.
 * 3 datasets with altered levels of heterogeneity, repeated with adversarial attacks.
 
 ## System blocks
+* System Diagram
+![](/image/FL-Diagram.png)
+
+* System Implementation
+![](/image/FL-Implementation.png)
 
 ## Hardware/Software requirements
 * Python
